@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabHostBaseCardEmulation</string>
+    <string name="service_name">Card Emulator</string>
+    <string name="aiddescription">AID List</string>
+</resources>
